@@ -1,0 +1,405 @@
+Debug message
+This is i: 0
+Debug message
+This is i: 1
+Debug message
+This is i: 2
+Debug message
+This is i: 0
+These are i and i+1: 0 1
+Debug message
+This is i: 1
+These are i and i+1: 1 2
+Debug message
+This is i: 2
+These are i and i+1: 2 3
+Debug message
+This is i: 0
+Error message
+Ciritcal message
+Debug message
+This is i: 1
+Error message
+Ciritcal message
+Debug message
+This is i: 2
+Error message
+Ciritcal message
+Debug message
+2018-09-23 18:34:45,299 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:34:45,299 - Main logger - INFO - This is i: 0
+Debug message
+2018-09-23 18:34:45,299 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:34:45,299 - Main logger - INFO - This is i: 1
+Debug message
+2018-09-23 18:34:45,314 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:34:45,314 - Main logger - INFO - This is i: 2
+Debug message
+2018-09-23 18:34:45,314 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:34:45,314 - Main logger - INFO - This is i: 0
+These are i and i+1: 0 1
+2018-09-23 18:34:45,314 - Main logger - WARNING - These are i and i+1: 0 1
+Debug message
+2018-09-23 18:34:45,314 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:34:45,314 - Main logger - INFO - This is i: 1
+These are i and i+1: 1 2
+2018-09-23 18:34:45,314 - Main logger - WARNING - These are i and i+1: 1 2
+Debug message
+2018-09-23 18:34:45,314 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:34:45,314 - Main logger - INFO - This is i: 2
+These are i and i+1: 2 3
+2018-09-23 18:34:45,330 - Main logger - WARNING - These are i and i+1: 2 3
+Debug message
+2018-09-23 18:34:45,330 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:34:45,330 - Main logger - INFO - This is i: 0
+Error message
+2018-09-23 18:34:45,330 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:34:45,330 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:34:45,330 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:34:45,330 - Main logger - INFO - This is i: 1
+Error message
+2018-09-23 18:34:45,330 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:34:45,330 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:34:45,330 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:34:45,330 - Main logger - INFO - This is i: 2
+Error message
+2018-09-23 18:34:45,346 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:34:45,346 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:00,259 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:00,259 - Main logger - INFO - This is i: 0
+Debug message
+2018-09-23 18:37:00,259 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:00,274 - Main logger - INFO - This is i: 1
+Debug message
+2018-09-23 18:37:00,274 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:00,274 - Main logger - INFO - This is i: 2
+Debug message
+2018-09-23 18:37:00,274 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:00,274 - Main logger - INFO - This is i: 0
+These are i and i+1: 0 1
+2018-09-23 18:37:00,274 - Main logger - WARNING - These are i and i+1: 0 1
+Debug message
+2018-09-23 18:37:00,274 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:00,274 - Main logger - INFO - This is i: 1
+These are i and i+1: 1 2
+2018-09-23 18:37:00,274 - Main logger - WARNING - These are i and i+1: 1 2
+Debug message
+2018-09-23 18:37:00,290 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:00,290 - Main logger - INFO - This is i: 2
+These are i and i+1: 2 3
+2018-09-23 18:37:00,290 - Main logger - WARNING - These are i and i+1: 2 3
+Debug message
+2018-09-23 18:37:00,290 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:00,290 - Main logger - INFO - This is i: 0
+Error message
+2018-09-23 18:37:00,290 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:00,290 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:00,306 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:00,306 - Main logger - INFO - This is i: 1
+Error message
+2018-09-23 18:37:00,306 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:00,306 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:00,306 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:00,306 - Main logger - INFO - This is i: 2
+Error message
+2018-09-23 18:37:00,321 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:00,321 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:15,369 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:15,369 - Main logger - INFO - This is i: 0
+Debug message
+2018-09-23 18:37:15,369 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:15,384 - Main logger - INFO - This is i: 1
+Debug message
+2018-09-23 18:37:15,384 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:15,384 - Main logger - INFO - This is i: 2
+Debug message
+2018-09-23 18:37:15,384 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:15,384 - Main logger - INFO - This is i: 0
+These are i and i+1: 0 1
+2018-09-23 18:37:15,384 - Main logger - WARNING - These are i and i+1: 0 1
+Debug message
+2018-09-23 18:37:15,384 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:15,384 - Main logger - INFO - This is i: 1
+These are i and i+1: 1 2
+2018-09-23 18:37:15,384 - Main logger - WARNING - These are i and i+1: 1 2
+Debug message
+2018-09-23 18:37:15,400 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:15,400 - Main logger - INFO - This is i: 2
+These are i and i+1: 2 3
+2018-09-23 18:37:15,400 - Main logger - WARNING - These are i and i+1: 2 3
+Debug message
+2018-09-23 18:37:15,400 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:15,400 - Main logger - INFO - This is i: 0
+Error message
+2018-09-23 18:37:15,400 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:15,400 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:15,400 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:15,400 - Main logger - INFO - This is i: 1
+Error message
+2018-09-23 18:37:15,400 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:15,400 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:15,416 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:15,416 - Main logger - INFO - This is i: 2
+Error message
+2018-09-23 18:37:15,416 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:15,416 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:26,213 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:26,213 - Main logger - INFO - This is i: 0
+Debug message
+2018-09-23 18:37:26,213 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:26,229 - Main logger - INFO - This is i: 1
+Debug message
+2018-09-23 18:37:26,229 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:26,229 - Main logger - INFO - This is i: 2
+Debug message
+2018-09-23 18:37:26,229 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:26,229 - Main logger - INFO - This is i: 0
+These are i and i+1: 0 1
+2018-09-23 18:37:26,229 - Main logger - WARNING - These are i and i+1: 0 1
+Debug message
+2018-09-23 18:37:26,229 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:26,244 - Main logger - INFO - This is i: 1
+These are i and i+1: 1 2
+2018-09-23 18:37:26,244 - Main logger - WARNING - These are i and i+1: 1 2
+Debug message
+2018-09-23 18:37:26,244 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:26,244 - Main logger - INFO - This is i: 2
+These are i and i+1: 2 3
+2018-09-23 18:37:26,244 - Main logger - WARNING - These are i and i+1: 2 3
+Debug message
+2018-09-23 18:37:26,260 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:26,260 - Main logger - INFO - This is i: 0
+Error message
+2018-09-23 18:37:26,260 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:26,260 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:26,260 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:26,260 - Main logger - INFO - This is i: 1
+Error message
+2018-09-23 18:37:26,260 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:26,260 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:26,276 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:26,276 - Main logger - INFO - This is i: 2
+Error message
+2018-09-23 18:37:26,276 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:26,276 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:28,854 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:28,854 - Main logger - INFO - This is i: 0
+Debug message
+2018-09-23 18:37:28,854 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:28,869 - Main logger - INFO - This is i: 1
+Debug message
+2018-09-23 18:37:28,869 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:28,869 - Main logger - INFO - This is i: 2
+Debug message
+2018-09-23 18:37:28,869 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:28,869 - Main logger - INFO - This is i: 0
+These are i and i+1: 0 1
+2018-09-23 18:37:28,869 - Main logger - WARNING - These are i and i+1: 0 1
+Debug message
+2018-09-23 18:37:28,869 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:28,869 - Main logger - INFO - This is i: 1
+These are i and i+1: 1 2
+2018-09-23 18:37:28,869 - Main logger - WARNING - These are i and i+1: 1 2
+Debug message
+2018-09-23 18:37:28,885 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:28,885 - Main logger - INFO - This is i: 2
+These are i and i+1: 2 3
+2018-09-23 18:37:28,885 - Main logger - WARNING - These are i and i+1: 2 3
+Debug message
+2018-09-23 18:37:28,885 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:28,885 - Main logger - INFO - This is i: 0
+Error message
+2018-09-23 18:37:28,885 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:28,901 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:28,901 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:28,901 - Main logger - INFO - This is i: 1
+Error message
+2018-09-23 18:37:28,901 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:28,901 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:28,901 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:28,901 - Main logger - INFO - This is i: 2
+Error message
+2018-09-23 18:37:28,901 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:28,916 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:34,917 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:34,917 - Main logger - INFO - This is i: 0
+Debug message
+2018-09-23 18:37:34,917 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:34,917 - Main logger - INFO - This is i: 1
+Debug message
+2018-09-23 18:37:34,917 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:34,917 - Main logger - INFO - This is i: 2
+Debug message
+2018-09-23 18:37:34,917 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:34,932 - Main logger - INFO - This is i: 0
+These are i and i+1: 0 1
+2018-09-23 18:37:34,932 - Main logger - WARNING - These are i and i+1: 0 1
+Debug message
+2018-09-23 18:37:34,932 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:34,932 - Main logger - INFO - This is i: 1
+These are i and i+1: 1 2
+2018-09-23 18:37:34,948 - Main logger - WARNING - These are i and i+1: 1 2
+Debug message
+2018-09-23 18:37:34,948 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:34,948 - Main logger - INFO - This is i: 2
+These are i and i+1: 2 3
+2018-09-23 18:37:34,948 - Main logger - WARNING - These are i and i+1: 2 3
+Debug message
+2018-09-23 18:37:34,948 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:34,948 - Main logger - INFO - This is i: 0
+Error message
+2018-09-23 18:37:34,963 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:34,963 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:34,963 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:34,963 - Main logger - INFO - This is i: 1
+Error message
+2018-09-23 18:37:34,963 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:34,979 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:34,979 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:34,979 - Main logger - INFO - This is i: 2
+Error message
+2018-09-23 18:37:34,979 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:34,979 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:55,214 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:55,230 - Main logger - INFO - This is i: 0
+Debug message
+2018-09-23 18:37:55,230 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:55,230 - Main logger - INFO - This is i: 1
+Debug message
+2018-09-23 18:37:55,230 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:55,230 - Main logger - INFO - This is i: 2
+Debug message
+2018-09-23 18:37:55,230 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:55,230 - Main logger - INFO - This is i: 0
+These are i and i+1: 0 1
+2018-09-23 18:37:55,230 - Main logger - WARNING - These are i and i+1: 0 1
+Debug message
+2018-09-23 18:37:55,246 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:55,246 - Main logger - INFO - This is i: 1
+These are i and i+1: 1 2
+2018-09-23 18:37:55,246 - Main logger - WARNING - These are i and i+1: 1 2
+Debug message
+2018-09-23 18:37:55,246 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:55,261 - Main logger - INFO - This is i: 2
+These are i and i+1: 2 3
+2018-09-23 18:37:55,261 - Main logger - WARNING - These are i and i+1: 2 3
+Debug message
+2018-09-23 18:37:55,261 - Main logger - DEBUG - Debug message
+This is i: 0
+2018-09-23 18:37:55,261 - Main logger - INFO - This is i: 0
+Error message
+2018-09-23 18:37:55,261 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:55,261 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:55,277 - Main logger - DEBUG - Debug message
+This is i: 1
+2018-09-23 18:37:55,277 - Main logger - INFO - This is i: 1
+Error message
+2018-09-23 18:37:55,277 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:55,277 - Main logger - CRITICAL - Ciritcal message
+Debug message
+2018-09-23 18:37:55,277 - Main logger - DEBUG - Debug message
+This is i: 2
+2018-09-23 18:37:55,277 - Main logger - INFO - This is i: 2
+Error message
+2018-09-23 18:37:55,277 - Main logger - ERROR - Error message
+Ciritcal message
+2018-09-23 18:37:55,293 - Main logger - CRITICAL - Ciritcal message

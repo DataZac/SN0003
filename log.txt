@@ -1,0 +1,9 @@
+2018-09-23 19:09:00,817 - Main logger - DEBUG - XDelete by filter
+2018-09-23 19:09:00,833 - Main logger - DEBUG - XDelete by filter
+2018-09-23 19:09:00,849 - Main logger - DEBUG - XDelete by filter
+2018-09-23 19:09:06,318 - Main logger - DEBUG - XDelete by filter
+2018-09-23 19:09:06,318 - Main logger - DEBUG - XDelete by filter
+2018-09-23 19:09:06,318 - Main logger - DEBUG - XDelete by filter
+2018-09-23 19:09:06,318 - Main logger - DEBUG - XDelete by filter
+2018-09-23 19:09:06,333 - Main logger - DEBUG - XDelete by filter
+2018-09-23 19:09:06,333 - Main logger - DEBUG - XDelete by filter
